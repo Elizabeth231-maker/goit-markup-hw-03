@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background: #ffffff;
 }
@@ -40,7 +40,7 @@ img {
   margin-right: auto;
 }
 
-.features-title {
+.sr-only {
   position: absolute;
   width: 1px;
   height: 1px;

@@ -6,7 +6,7 @@
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.33;
@@ -20,7 +20,7 @@
 }
 
 .footer-text {
-  max-width: 26px;
+  max-width: 264px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
